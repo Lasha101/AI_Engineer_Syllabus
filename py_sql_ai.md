@@ -35,7 +35,7 @@ FastAPI + Jinja2, Redis, Real Time აპლიკაცია
 # **თავი - 18**
 კონტეინერიზაცია, Docker, Docker Compose, მიკროსერვისები: Real Time აპლიკაცია + AI Chatbot
 # **თავი - 19**
-CI/CD Pipeline-ი, მასშტაბირება და უსაფრთხოება
+CI/CD Pipeline-ი, მასშტაბირება და უსაფრთხოება, ჰოსტინგი
 # **თავი - 20**
-Scrapping, AI Agents, HuggingFace და შემდგომში გასაკეთებელი 
+Scrapping, AI Agents, Huggingface და შემდგომში გასაკეთებელი 
 
